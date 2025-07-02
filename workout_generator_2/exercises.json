@@ -1,0 +1,67 @@
+{
+  "bodyweight": {
+    "full_body": {
+      "Jumping Jacks (modified, no jump)": "Stand with your feet together and your arms at your sides. Step one foot out to the side and raise your arms overhead. Return to the starting position and repeat with the other foot.",
+      "Inchworms": "Stand up tall, then hinge at your hips to fold forward and touch your toes. Walk your hands forward until you are in a high plank position. Walk your feet forward to meet your hands. Repeat.",
+      "Bird-Dog": "Start on all fours with your hands directly under your shoulders and your knees directly under your hips. Extend one arm straight out in front of you and the opposite leg straight out behind you. Hold for a moment, then return to the starting position and repeat on the other side.",
+      "Mountain Climbers (slow)": "Start in a high plank position. Bring one knee towards your chest, then return it to the starting position. Repeat with the other leg, alternating legs in a slow, controlled motion.",
+      "Squat to Stand": "Stand with your feet shoulder-width apart. Lower your hips into a squat position, then stand back up. For a modification, you can use a chair to help you stand up.",
+      "Glute Bridge": "Lie on your back with your knees bent and feet flat on the floor. Lift your hips off the floor until your body forms a straight line from your shoulders to your knees. Hold for a moment, then lower your hips back down.",
+      "Squat Jumps (modified, no jump)": "Start in a squat position. Instead of jumping, powerfully extend your legs to come up onto your toes, then immediately lower back into a squat."
+    },
+    "upper": {
+        "Tricep Dips (using a chair or floor)": "Sit on the edge of a chair or on the floor with your hands next to your hips. Lift your hips off the chair or floor and walk your feet forward. Lower your body until your elbows are bent at a 90-degree angle, then push back up to the starting position.",
+        "Plank Taps": "Start in a high plank position. Tap one shoulder with the opposite hand, then return your hand to the floor. Repeat on the other side, alternating sides.",
+        "Arm Circles": "Stand with your feet shoulder-width apart and your arms extended out to your sides at shoulder height. Make small circles with your arms, first forward, then backward."
+    },
+    "lower": {
+        "Squats": "Stand with your feet shoulder-width apart. Lower your hips as if you are sitting in a chair, keeping your chest up and your back straight. Go as low as you can comfortably, then return to the starting position.",
+        "Glute Bridges": "Lie on your back with your knees bent and feet flat on the floor. Lift your hips off the floor until your body forms a straight line from your shoulders to your knees. Hold for a moment, then lower your hips back down.",
+        "Alternating Lunges": "Stand with your feet together. Step forward with one leg and lower your hips until both knees are bent at a 90-degree angle. Push off your front foot to return to the starting position, then repeat with the other leg.",
+        "Calf Raises": "Stand with your feet flat on the floor. Raise your heels up as high as you can, then lower them back down.",
+        "Side Lunges": "Stand with your feet together. Step out to the side with one leg and lower your hips, keeping your other leg straight. Push off your bent leg to return to the starting position, then repeat on the other side.",
+        "Wall Sit": "Stand with your back against a wall. Walk your feet forward and slide your back down the wall until your knees are bent at a 90-degree angle. Hold this position.",
+        "Bodyweight Squat Pulse": "Lower into a squat position. Instead of standing all the way up, pulse up and down a few inches.",
+        "Sumo Squat": "Stand with your feet wider than shoulder-width apart and your toes pointed out. Lower your hips into a squat, keeping your chest up and your back straight. Return to the starting position."
+    },
+    "core": {
+        "Plank": "Start on all fours, then extend your legs back so that your body forms a straight line from your head to your heels. Hold this position, keeping your core engaged.",
+        "Leg Raises": "Lie on your back with your legs straight out in front of you. Slowly raise your legs up towards the ceiling, then lower them back down without letting them touch the floor.",
+        "Bicycle Crunches (slow)": "Lie on your back with your hands behind your head and your knees bent. Bring one knee towards your chest while twisting your torso to bring the opposite elbow towards that knee. Repeat on the other side in a slow, controlled motion.",
+        "Dead Bug": "Lie on your back with your arms extended towards the ceiling and your knees bent at a 90-degree angle. Slowly lower one arm and the opposite leg towards the floor, then return to the starting position and repeat on the other side.",
+        "Heel Taps": "Lie on your back with your knees bent and feet flat on the floor. Reach one hand down to tap your heel, then repeat on the other side."
+    }
+  },
+  "dumbbells": {
+    "full_body": {
+        "Dumbbell Thrusters": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand at your shoulders. Lower into a squat, then as you stand up, press the dumbbells overhead.",
+        "Dumbbell Swings": "Stand with your feet shoulder-width apart, holding one dumbbell with both hands in front of you. Hinge at your hips and swing the dumbbell between your legs, then use your hips to swing it up to shoulder height.",
+        "Renegade Rows": "Start in a high plank position with a dumbbell in each hand. Row one dumbbell up to your chest, then lower it back down. Repeat on the other side.",
+        "Dumbbell Deadlifts": "Stand with your feet hip-width apart, holding a dumbbell in each hand in front of your thighs. Hinge at your hips and lower the dumbbells towards the floor, keeping your back straight. Return to the starting position.",
+        "Goblet Squat": "Stand with your feet shoulder-width apart, holding one dumbbell vertically against your chest. Lower into a squat, keeping your chest up and your back straight. Return to the starting position."
+    },
+    "upper": {
+        "Bicep Curls": "Stand or sit with a dumbbell in each hand, palms facing forward. Curl the dumbbells up to your shoulders, then lower them back down.",
+        "Overhead Press": "Stand or sit with a dumbbell in each hand at your shoulders. Press the dumbbells overhead until your arms are fully extended, then lower them back down.",
+        "Dumbbell Rows": "Hinge at your hips and let the dumbbells hang in front of you, keeping your back straight. Row the dumbbells up to your chest, squeezing your shoulder blades together. Lower the dumbbells back down.",
+        "Chest Press (on floor)": "Lie on your back with your knees bent and feet flat on the floor, holding a dumbbell in each hand. Press the dumbbells up over your chest until your arms are fully extended, then lower them back down.",
+        "Lateral Raises": "Stand with a dumbbell in each hand at your sides. Raise the dumbbells out to your sides until they are at shoulder height, then lower them back down.",
+        "Dumbbell Hammer Curls": "Stand or sit with a dumbbell in each hand, palms facing in. Curl the dumbbells up to your shoulders, then lower them back down."
+    },
+    "lower": {
+        "Goblet Squats": "Stand with your feet shoulder-width apart, holding one dumbbell vertically against your chest. Lower into a squat, keeping your chest up and your back straight. Return to the starting position.",
+        "Dumbbell Lunges": "Stand with a dumbbell in each hand. Step forward with one leg and lower your hips until both knees are bent at a 90-degree angle. Push off your front foot to return to the starting position, then repeat with the other leg.",
+        "Romanian Deadlifts": "Stand with your feet hip-width apart, holding a dumbbell in each hand in front of your thighs. Hinge at your hips and lower the dumbbells towards the floor, keeping your back straight and a slight bend in your knees. Return to the starting position.",
+        "Dumbbell Calf Raises": "Stand with a dumbbell in each hand and your feet flat on the floor. Raise your heels up as high as you can, then lower them back down.",
+        "Dumbbell Step-ups": "Stand in front of a sturdy box or bench with a dumbbell in each hand. Step up onto the box with one foot, then bring the other foot up to meet it. Step back down with the first foot, then the second.",
+        "Dumbbell Front Squat": "Stand with your feet shoulder-width apart, holding a dumbbell in each hand resting on your shoulders. Lower into a squat, keeping your chest up and your back straight. Return to the starting position.",
+        "Dumbbell Sumo Squat": "Stand with your feet wider than shoulder-width apart and your toes pointed out, holding a dumbbell in each hand. Lower your hips into a squat, keeping your chest up and your back straight. Return to the starting position."
+    },
+    "core": {
+        "Dumbbell Russian Twists": "Sit on the floor with your knees bent and your feet off the ground, holding one dumbbell with both hands. Twist your torso from side to side, tapping the dumbbell on the floor on each side.",
+        "Dumbbell Crunches": "Lie on your back with your knees bent and feet flat on the floor, holding a dumbbell across your chest. Crunch up, lifting your shoulder blades off the floor, then lower back down.",
+        "Plank with Dumbbell Drag": "Start in a high plank position with a dumbbell on the floor next to one hand. Reach under your body with the opposite hand to grab the dumbbell and drag it to the other side. Repeat on the other side.",
+        "Dumbbell Side Bends": "Stand with a dumbbell in one hand. Bend to the side, lowering the dumbbell towards your knee. Return to the starting position and repeat on the other side."
+    }
+  }
+}
