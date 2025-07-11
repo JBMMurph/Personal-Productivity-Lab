@@ -1,0 +1,354 @@
+[
+  {
+    "name": "Bodyweight Squat",
+    "description": "Fundamental lower body exercise targeting quadriceps, glutes, and hamstrings while improving functional movement patterns",
+    "instructions": [
+      "Stand with feet shoulder-width apart, toes slightly turned out",
+      "Keep chest up and core engaged throughout the movement",
+      "Lower your body by pushing hips back and bending knees",
+      "Descend until thighs are parallel to the floor (or as low as comfortable)",
+      "Drive through heels to return to starting position",
+      "Keep knees tracking over toes, don't let them cave inward"
+    ],
+    "tips": [
+      "Keep weight in your heels, not on toes",
+      "Don't let knees cave inward",
+      "Maintain neutral spine throughout movement",
+      "Control the descent - don't drop down quickly"
+    ],
+    "muscles_worked": ["Quadriceps", "Glutes", "Hamstrings", "Core"],
+    "equipment": "bodyweight",
+    "focus_area": "lower",
+    "duration": 45
+  },
+  {
+    "name": "Push-Up",
+    "description": "Classic upper body exercise targeting chest, shoulders, and triceps while engaging core for stability",
+    "instructions": [
+      "Start in plank position with hands slightly wider than shoulder-width",
+      "Keep body in straight line from head to heels",
+      "Lower chest toward ground by bending elbows",
+      "Keep elbows at 45-degree angle to body, not flared out",
+      "Push back up to starting position",
+      "Maintain core engagement throughout movement"
+    ],
+    "tips": [
+      "Don't let hips sag or pike up",
+      "Keep head in neutral position",
+      "Full range of motion - chest should nearly touch floor",
+      "Breathe in on the way down, out on the way up"
+    ],
+    "muscles_worked": ["Chest", "Shoulders", "Triceps", "Core"],
+    "equipment": "bodyweight",
+    "focus_area": "upper",
+    "duration": 30
+  },
+  {
+    "name": "Modified Push-Up",
+    "description": "Beginner-friendly push-up variation performed on knees, maintaining proper form while reducing load",
+    "instructions": [
+      "Start in plank position, then lower knees to ground",
+      "Keep straight line from head to knees",
+      "Place hands slightly wider than shoulder-width apart",
+      "Lower chest toward ground by bending elbows",
+      "Keep elbows at 45-degree angle to body",
+      "Push back up to starting position"
+    ],
+    "tips": [
+      "Don't sit back on heels - maintain forward lean",
+      "Keep core engaged even with knees down",
+      "Focus on controlled movement over speed",
+      "Progress to full push-ups when ready"
+    ],
+    "muscles_worked": ["Chest", "Shoulders", "Triceps", "Core"],
+    "equipment": "bodyweight",
+    "focus_area": "upper",
+    "duration": 30
+  },
+  {
+    "name": "Standard Plank",
+    "description": "Isometric core exercise building stability, strength, and endurance in deep core muscles",
+    "instructions": [
+      "Start in push-up position with forearms on ground",
+      "Keep elbows directly under shoulders",
+      "Maintain straight line from head to heels",
+      "Engage core by pulling belly button toward spine",
+      "Keep hips level - don't let them sag or pike up",
+      "Breathe steadily throughout the hold"
+    ],
+    "tips": [
+      "Focus on quality over duration",
+      "Keep shoulders away from ears",
+      "Don't hold breath - maintain steady breathing",
+      "Stop if form breaks down"
+    ],
+    "muscles_worked": ["Core", "Shoulders", "Glutes", "Back"],
+    "equipment": "bodyweight",
+    "focus_area": "core",
+    "duration": 60
+  },
+  {
+    "name": "Side Plank",
+    "description": "Unilateral core exercise targeting obliques and improving lateral stability and strength",
+    "instructions": [
+      "Lie on side with forearm on ground, elbow under shoulder",
+      "Stack feet on top of each other",
+      "Lift hips up creating straight line from head to feet",
+      "Keep top arm on hip or extended toward ceiling",
+      "Hold position while breathing steadily",
+      "Repeat on other side"
+    ],
+    "tips": [
+      "Don't let hips drop or rotate",
+      "Keep head in neutral position",
+      "Modify by dropping to knees if needed",
+      "Focus on lifting from core, not just arm"
+    ],
+    "muscles_worked": ["Obliques", "Core", "Shoulders", "Hip stabilizers"],
+    "equipment": "bodyweight",
+    "focus_area": "core",
+    "duration": 45
+  },
+  {
+    "name": "Mountain Climbers",
+    "description": "Dynamic high-intensity exercise combining cardio and core strength while engaging multiple muscle groups",
+    "instructions": [
+      "Start in plank position with hands under shoulders",
+      "Keep core tight and body in straight line",
+      "Drive right knee toward chest, then quickly switch",
+      "Alternate legs in running motion",
+      "Keep hips level throughout movement",
+      "Maintain steady breathing rhythm"
+    ],
+    "tips": [
+      "Start slow and build up speed",
+      "Don't let hips bounce up and down",
+      "Keep shoulders stable over hands",
+      "Land softly on balls of feet"
+    ],
+    "muscles_worked": ["Core", "Shoulders", "Hip flexors", "Cardiovascular system"],
+    "equipment": "bodyweight",
+    "focus_area": "full_body",
+    "duration": 30
+  },
+  {
+    "name": "Jumping Jacks",
+    "description": "Classic cardio exercise that elevates heart rate while improving coordination and full-body mobility",
+    "instructions": [
+      "Start standing with feet together, arms at sides",
+      "Jump while spreading legs shoulder-width apart",
+      "Simultaneously raise arms overhead",
+      "Jump back to starting position",
+      "Land softly on balls of feet",
+      "Maintain steady rhythm"
+    ],
+    "tips": [
+      "Keep core engaged throughout",
+      "Land softly to protect joints",
+      "Keep arms straight during movement",
+      "Modify by stepping instead of jumping if needed"
+    ],
+    "muscles_worked": ["Calves", "Glutes", "Shoulders", "Core"],
+    "equipment": "bodyweight",
+    "focus_area": "full_body",
+    "duration": 30
+  },
+  {
+    "name": "Burpees",
+    "description": "Full-body high-intensity exercise combining squat, plank, push-up, and jump for maximum calorie burn",
+    "instructions": [
+      "Start standing with feet shoulder-width apart",
+      "Drop into squat position, place hands on ground",
+      "Jump feet back into plank position",
+      "Perform push-up (optional for beginners)",
+      "Jump feet back to squat position",
+      "Jump up with arms overhead"
+    ],
+    "tips": [
+      "Focus on form over speed",
+      "Step back instead of jumping if needed",
+      "Keep core engaged throughout",
+      "Modify by removing push-up or jump"
+    ],
+    "muscles_worked": ["Full body", "Cardiovascular system"],
+    "equipment": "bodyweight",
+    "focus_area": "full_body",
+    "duration": 30
+  },
+  {
+    "name": "Lunges",
+    "description": "Unilateral lower body exercise targeting legs and glutes while improving balance and stability",
+    "instructions": [
+      "Start standing with feet hip-width apart",
+      "Step forward with right leg into lunge position",
+      "Lower hips until both knees are at 90 degrees",
+      "Keep front knee over ankle, not pushed out past toes",
+      "Push back to starting position",
+      "Alternate legs or complete set on one side"
+    ],
+    "tips": [
+      "Keep torso upright throughout movement",
+      "Don't let front knee cave inward",
+      "Step far enough forward for proper form",
+      "Control the descent - don't drop down"
+    ],
+    "muscles_worked": ["Quadriceps", "Glutes", "Hamstrings", "Core"],
+    "equipment": "bodyweight",
+    "focus_area": "lower",
+    "duration": 45
+  },
+  {
+    "name": "High Knees",
+    "description": "Cardio exercise that improves running form, hip flexor strength, and cardiovascular endurance",
+    "instructions": [
+      "Start standing with feet hip-width apart",
+      "Run in place lifting knees toward chest",
+      "Aim to bring knees up to waist level",
+      "Keep core engaged and posture upright",
+      "Pump arms naturally as if running",
+      "Maintain quick, light steps"
+    ],
+    "tips": [
+      "Stay on balls of feet",
+      "Keep breathing steady",
+      "Focus on knee height over speed",
+      "Land softly to protect joints"
+    ],
+    "muscles_worked": ["Hip flexors", "Glutes", "Calves", "Core"],
+    "equipment": "bodyweight",
+    "focus_area": "full_body",
+    "duration": 30
+  },
+  {
+    "name": "Dumbbell Squats",
+    "description": "Loaded squat variation using dumbbells to increase resistance and challenge lower body strength",
+    "instructions": [
+      "Hold dumbbells at shoulder height or at sides",
+      "Stand with feet shoulder-width apart",
+      "Keep chest up and core engaged",
+      "Lower by pushing hips back and bending knees",
+      "Descend until thighs are parallel to floor",
+      "Drive through heels to return to standing"
+    ],
+    "tips": [
+      "Keep dumbbells close to body",
+      "Don't let knees cave inward",
+      "Maintain neutral spine",
+      "Control the weight throughout movement"
+    ],
+    "muscles_worked": ["Quadriceps", "Glutes", "Hamstrings", "Core"],
+    "equipment": "dumbbells",
+    "focus_area": "lower",
+    "duration": 45
+  },
+  {
+    "name": "Dumbbell Chest Press",
+    "description": "Upper body pressing exercise targeting chest, shoulders, and triceps using dumbbells for full range of motion",
+    "instructions": [
+      "Lie on bench or floor with dumbbells in hands",
+      "Start with dumbbells at chest level, elbows bent",
+      "Press weights up until arms are fully extended",
+      "Lower weights with control back to starting position",
+      "Keep core engaged throughout movement",
+      "Maintain steady breathing pattern"
+    ],
+    "tips": [
+      "Don't let weights drift too far apart",
+      "Keep shoulders pulled back and down",
+      "Control the negative portion of movement",
+      "Don't bounce weights off chest"
+    ],
+    "muscles_worked": ["Chest", "Shoulders", "Triceps", "Core"],
+    "equipment": "dumbbells",
+    "focus_area": "upper",
+    "duration": 45
+  },
+  {
+    "name": "Dumbbell Rows",
+    "description": "Pulling exercise targeting back muscles and biceps while improving posture and upper body strength",
+    "instructions": [
+      "Hinge at hips with dumbbells hanging at arms' length",
+      "Keep back straight and core engaged",
+      "Pull dumbbells to sides of torso",
+      "Squeeze shoulder blades together at top",
+      "Lower weights with control",
+      "Keep elbows close to body throughout movement"
+    ],
+    "tips": [
+      "Don't round back during movement",
+      "Focus on pulling with back muscles, not arms",
+      "Keep head in neutral position",
+      "Control the weight on both up and down phases"
+    ],
+    "muscles_worked": ["Latissimus dorsi", "Rhomboids", "Biceps", "Core"],
+    "equipment": "dumbbells",
+    "focus_area": "upper",
+    "duration": 45
+  },
+  {
+    "name": "Dumbbell Shoulder Press",
+    "description": "Overhead pressing exercise targeting shoulders and triceps while engaging core for stability",
+    "instructions": [
+      "Hold dumbbells at shoulder height with palms facing forward",
+      "Keep feet shoulder-width apart, core engaged",
+      "Press weights directly overhead until arms are fully extended",
+      "Lower weights with control back to starting position",
+      "Keep elbows slightly in front of body",
+      "Maintain neutral spine throughout movement"
+    ],
+    "tips": [
+      "Don't arch back excessively",
+      "Keep core tight to protect lower back",
+      "Press weights up and slightly back",
+      "Control the descent - don't drop weights"
+    ],
+    "muscles_worked": ["Shoulders", "Triceps", "Core", "Upper back"],
+    "equipment": "dumbbells",
+    "focus_area": "upper",
+    "duration": 45
+  },
+  {
+    "name": "Dumbbell Deadlifts",
+    "description": "Hip-hinge movement targeting posterior chain muscles while building functional strength and power",
+    "instructions": [
+      "Hold dumbbells in front of thighs with overhand grip",
+      "Stand with feet hip-width apart, slight bend in knees",
+      "Hinge at hips, pushing butt back while lowering weights",
+      "Keep back straight and chest up",
+      "Lower until you feel stretch in hamstrings",
+      "Drive hips forward to return to standing position"
+    ],
+    "tips": [
+      "Keep weights close to body throughout movement",
+      "Don't round back - maintain neutral spine",
+      "Focus on hip movement, not knee bending",
+      "Keep shoulders pulled back and down"
+    ],
+    "muscles_worked": ["Hamstrings", "Glutes", "Lower back", "Core"],
+    "equipment": "dumbbells",
+    "focus_area": "lower",
+    "duration": 45
+  },
+  {
+    "name": "Dumbbell Lunges",
+    "description": "Unilateral lower body exercise with added resistance to challenge balance, strength, and coordination",
+    "instructions": [
+      "Hold dumbbells at sides with arms straight",
+      "Step forward into lunge position",
+      "Lower hips until both knees are at 90 degrees",
+      "Keep front knee over ankle",
+      "Push back to starting position",
+      "Alternate legs or complete set on one side"
+    ],
+    "tips": [
+      "Keep torso upright throughout movement",
+      "Don't let front knee drift past toes",
+      "Keep dumbbells at sides, not swinging",
+      "Step far enough forward for proper form"
+    ],
+    "muscles_worked": ["Quadriceps", "Glutes", "Hamstrings", "Core"],
+    "equipment": "dumbbells",
+    "focus_area": "lower",
+    "duration": 45
+  }
+]
